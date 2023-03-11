@@ -1,0 +1,8 @@
+C:\Users\berka\Desktop\05200000092_05210000282_Proje4\bin\Debug\05200000092_05210000282_Proje4.exe.config
+C:\Users\berka\Desktop\05200000092_05210000282_Proje4\bin\Debug\05200000092_05210000282_Proje4.exe
+C:\Users\berka\Desktop\05200000092_05210000282_Proje4\bin\Debug\05200000092_05210000282_Proje4.pdb
+C:\Users\berka\Desktop\05200000092_05210000282_Proje4\obj\Debug\05200000092_05210000282_Proje4.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\05200000092_05210000282_Proje4\obj\Debug\05200000092_05210000282_Proje4.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\Desktop\05200000092_05210000282_Proje4\obj\Debug\05200000092_05210000282_Proje4.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\05200000092_05210000282_Proje4\obj\Debug\05200000092_05210000282_Proje4.exe
+C:\Users\berka\Desktop\05200000092_05210000282_Proje4\obj\Debug\05200000092_05210000282_Proje4.pdb
